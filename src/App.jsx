@@ -7,8 +7,6 @@ const App = () => {
         color="red"
         feedbackMessages={["bad", "meh", "ok", "good", "fine"]}
       />
-      <Rating heading="another" />
-      <Rating />
     </div>
   );
 };
